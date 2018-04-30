@@ -1,5 +1,5 @@
 # auto-mining-xmr-stak-amd
-auto mining xmr-stak-amd on Mac OS X, when power adapter connected &amp;&amp; display sleep mode turned on.
+It is a simple shell script which is auto mining xmr-stak-amd(Radeon GPUs) for Mac OS X, when power adapter connected and display sleep mode turned on.
 
 기존의 xmr-stak-amd 채굴 프로그램을 사용하여 sub-program인 간단한 쉘스크립트를 사용한다.
 본 쉘스크립트와 프로그램은 Mac OS X 기반에서 실행이 된다.
